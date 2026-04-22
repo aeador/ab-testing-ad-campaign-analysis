@@ -17,9 +17,10 @@ To determine whether the ad campaign led to a statistically significant increase
 - Jupyter Notebook
 
 ## 📈 Key Results
-- Compared conversion rates between groups
-- Calculated lift in performance
-- Determined statistical significance of results
+- Control conversion rate: 30%  
+- Test conversion rate: 70%  
+- Lift: 133%  
+- P-value: 0.081 (greater than 0.05, not statistically significant)
 
 ## 💡 Conclusion
 The analysis provides insights into whether the ad campaign had a measurable impact on user behavior and conversion outcomes.
